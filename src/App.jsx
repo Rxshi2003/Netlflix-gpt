@@ -1,12 +1,10 @@
-import React from 'react'
-import './App.css'
+
+import Body from './components/Body';
 
 function App() {
 
   return (
-   <dev className="text-3xl font-bold text-red-500">
-    hello World lets build  netflix-gpt
-   </dev> 
+   <Body/>
   )
 }
 
